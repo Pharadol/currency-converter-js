@@ -1,7 +1,7 @@
 # Currency Converter JS
 This workshop is designed to help you create a simple currency converter using JavaScript, HTML, and CSS. The currency converter fetches real-time exchange rates from an API and allows users to convert between different currencies.
 
-$\color{red}{\textsf{This project is a clone from my previous GitHub repository.}} $<a href="https://github.com/PharadolBrown/PortfolioJavascript/tree/main/CountDownNY" traget="_blank">  this repository</a>
+$\color{red}{\textsf{This project is a clone from my previous GitHub repository.}} $<a href="https://github.com/PharadolBrown/PortfolioJavascript/tree/main/CurrencyConverter" traget="_blank">  this repository</a>
 
 ## Demo
 You can see a live demo of the project [here](https://pharadol.github.io/currency-converter-js/).
